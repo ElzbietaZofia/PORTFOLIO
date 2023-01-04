@@ -14,7 +14,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 - Software testing
 - Creating test cases
 - Reporting bugs
-##Operating systems: 
+## Operating systems: 
 Windows, Linux 
 ## Certificates
 - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
