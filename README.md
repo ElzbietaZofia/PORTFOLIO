@@ -22,5 +22,6 @@ Windows, Linux
 ## My examples of diagrams and decision tables
 
 ## My projects
-[1. Triverna - Search engine (Tool - TestLink)](https://drive.google.com/file/d/19ZKWnGc5DdeMd1DfTMX551WfMSOL-I5P/view?usp=sharing)
+[1. Triverna.pl - Search engine (Tool - TestLink)](https://drive.google.com/file/d/19ZKWnGc5DdeMd1DfTMX551WfMSOL-I5P/view?usp=sharing)
 Test plan, Test cases, Test summary report  
+[2. Lampy.pl - Login Test (Tool - Google Sheets](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) Test cases
