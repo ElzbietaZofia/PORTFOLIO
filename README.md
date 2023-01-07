@@ -17,7 +17,7 @@ My goal is to develop testing knowlage and technical skills. On this site I woul
 ## Operating systems: 
 Windows, Linux 
 ## Certificates
-- [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
+- [ISTQB FL](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
 ## My examples of diagrams and decision tables
 
