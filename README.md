@@ -19,13 +19,8 @@ Windows, Linux
 ## Certificates
 - [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
-## My test case examples
-
-
-## My bug reports
-
-
 ## My examples of diagrams and decision tables
 
-
 ## My projects
+[1. Triverna - Search engine (Tool - TestLink)](https://drive.google.com/file/d/19ZKWnGc5DdeMd1DfTMX551WfMSOL-I5P/view?usp=sharing)
+Test plan, Test cases, Test summary report  
