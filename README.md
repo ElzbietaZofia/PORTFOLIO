@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-My names is Elżbieta Wilk and I am starting my career as a QA tester.
+My name is Elżbieta Wilk and I am starting my career as a QA tester.
 Years of working as an Interior designer have taught me to analyze in detail all received documentation to create custom project proposals in alignment with client budget and needs. These skills will serve me well as a QA specialist. 
 My goal is to develop testing knowlage and technical skills. In this portfolio I would like to share my testing knowledge and exhibit my technical skills.
 ## Tools
