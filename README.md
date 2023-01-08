@@ -20,7 +20,8 @@ Windows, Linux
 ## Certificates
 - [ISTQB FL](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
-## My examples of diagrams and decision tables
+## My bug reports
+[1. Bug on cegbud.com site](https://docs.google.com/document/d/1dXBsU-EbdSW73T9Mwo24dJG4k3kyVCapA7O4UvuRIR8/edit?usp=sharing)
 
 ## My projects
 [1. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
@@ -32,3 +33,5 @@ Windows, Linux
 - Test cases
 - Tools: Google Sheets, Google Chrome
 - Language: ENG
+
+
