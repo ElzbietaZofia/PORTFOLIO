@@ -22,6 +22,7 @@ Windows, Linux
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
 ## My bug reports
 [1. Bug on cegbud.com site](https://docs.google.com/document/d/1dXBsU-EbdSW73T9Mwo24dJG4k3kyVCapA7O4UvuRIR8/edit?usp=sharing)
+
 [2. Bug on 3wdb.pl site](https://docs.google.com/document/d/1bEuD07Snl7-4OGtSBdWw-tUSqX-PqAgvHBU7d5ZzwAE/edit?usp=sharing)
 
 ## My projects
