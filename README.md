@@ -24,11 +24,11 @@ Windows, Linux
 
 ## My projects
 [1. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
-- Test plan, Test cases, Test summary report
-- Tool: TestLink
+- Test plan, Test cases
+- Tools: TestLink, Google Chrome, Jira
 - Language: PL
 
 [2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) 
 - Test cases
-- Tool: Google Sheets
+- Tools: Google Sheets, Google Chrome
 - Language: ENG
