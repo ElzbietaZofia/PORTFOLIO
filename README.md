@@ -1,8 +1,8 @@
 # Portfolio
 ## About me
 My name is Elżbieta Wilk and I am starting my career as a QA tester.
-Years of working as an Interior designer have taught me to analyze in detail all received documentation to create custom project proposals in alignment with client budget and needs. These skills will serve me well as a QA specialist. 
-My goal is to develop testing knowlage and technical skills. In this portfolio I would like to share some of my projects.
+Years of working as an Interior designer have taught me to analyze in detail all received documentation to create custom project proposals in alignment with client budget and needs. These skills will serve me as a QA specialist. 
+My goal is to develop testing knowledge and technical skills. At present I am intensively studying techniques and tools by attending online courses and by testing websites and applications. In this portfolio I would like to share some of my projects.
 ## Tools
 - Jira - Issue tracking and project management tool
 - Slack - Project management tool
