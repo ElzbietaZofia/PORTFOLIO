@@ -7,6 +7,7 @@ My goal is to develop testing knowlage and technical skills. In this portfolio I
 - Jira - Issue tracking and project management tool
 - Slack - Project management tool
 - TestLink - Open Source Test Management
+- Postman
 - PicPick - Screen Capture and Recording Software
 ## Tech skills
 - SQL
