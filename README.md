@@ -9,18 +9,21 @@ My goal is to develop testing knowledge and technical skills. At present I am in
 - TestLink - Open Source Test Management
 - Postman
 - PicPick - Screen Capture and Recording Software
-## Tech skills
-- SQL
 - DevTools
-- SCRUM
+## Tech skills
+- Basics of SQL
+- Understanding the SCRUM Framework
 - Software testing
-- Creating test cases
-- Reporting bugs
+- Creating test cases and Test Scenarios
+- Finding and reporting bugs
 ## Operating systems: 
 Windows, Linux 
 ## Certificates
 - [ISTQB FL](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
+## Courses
+- [Start Your API Testing Journey With Postman Tool](https://www.coursera.org/account/accomplishments/certificate/F2TG4DMUQGHK) (Coursera Project Network)
+- Praktyczny kurs testowania oprogramowania (Udemy)
 ## My bug reports
 [1. Bug on cegbud.com site](https://drive.google.com/file/d/1O8seFwDDyiUGVvEFejaEXajSewqwJsJb/view?usp=sharing)
 
