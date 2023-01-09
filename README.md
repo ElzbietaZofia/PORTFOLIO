@@ -7,9 +7,9 @@ My goal is to develop testing knowledge and technical skills. At present I am in
 - Jira - Issue tracking and project management tool
 - Slack - Project management tool
 - TestLink - Open Source Test Management
-- Postman
+- Postman - an API platform for building and using APIs
 - PicPick - Screen Capture and Recording Software
-- DevTools
+- DevTools - a set of web developer tools
 ## Tech skills
 - Basics of SQL
 - Understanding the SCRUM Framework
