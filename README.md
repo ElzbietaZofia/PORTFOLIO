@@ -8,6 +8,7 @@ My goal is to develop testing knowledge and technical skills. At present I am in
 - Confluence - A collaborative documentation tool
 - Slack - Project management tool
 - TestLink - Open Source Test Management
+- TestRail - A test management platform
 - Postman - An API platform for building and using APIs
 - OBS, PicPick, ShareX - Screen Capture and Recording Software
 - DevTools - A set of web developer tools
