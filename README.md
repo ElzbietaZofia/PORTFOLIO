@@ -24,7 +24,7 @@ Windows, Linux
 - [Introduction to Structured Query Language (SQL)](https://www.coursera.org/account/accomplishments/certificate/6WZ2XXZQQMDQ) - No. 6WZ2XXZQQMDQ
 ## Courses
 - [Start Your API Testing Journey With Postman Tool](https://www.coursera.org/account/accomplishments/certificate/F2TG4DMUQGHK) (Coursera Project Network)
-- [Praktyczny kurs testowania oprogramowania (Udemy)](https://www.udemy.com/share/105oI83@EXNfNbvBp4rEso5yFoxiqp2mJmosZSaH_HtMPUvIMzAbwWECzOWHZtvGzrY7FEFFpA==/)
+- [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/share/105oI83@EXNfNbvBp4rEso5yFoxiqp2mJmosZSaH_HtMPUvIMzAbwWECzOWHZtvGzrY7FEFFpA==/) (Udemy)
 
 
 ## My projects
