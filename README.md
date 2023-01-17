@@ -29,14 +29,19 @@ Windows, Linux
 
 ## My projects
 
-[1. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) 
+[1. Test Plan - Slot game "Book of gold"](https://drive.google.com/file/d/13hajA2uQGkDkcPTOFWNdMER0BztQjQlw/view?usp=sharing)
+- Test plan
+- Tools: Google Docs, Chrome Browser
+- Language: ENG
+
+[2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) 
 - Test cases
 - Tools: Google Sheets, Google Chrome
 - Language: ENG
 
-[2. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
+[3. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
 - Test plan, Test cases
-- Tools: TestLink, Google Chrome, Jira
+- Tools: TestLink, Chrome Browser
 - Language: PL
 
 
