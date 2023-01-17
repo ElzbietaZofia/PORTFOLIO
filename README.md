@@ -36,7 +36,7 @@ Windows, Linux
 
 [2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) 
 - Test cases
-- Tools: Google Sheets, Google Chrome
+- Tools: Google Sheets, Chrome Browser
 - Language: ENG
 
 [3. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
