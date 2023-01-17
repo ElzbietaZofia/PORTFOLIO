@@ -29,7 +29,7 @@ Windows, Linux
 
 ## My projects
 
-[1. Test Plan - Slot game "Book of gold"](https://drive.google.com/file/d/13hajA2uQGkDkcPTOFWNdMER0BztQjQlw/view?usp=sharing)
+[1. Online slot game "Book of gold" - Test plan](https://drive.google.com/file/d/13hajA2uQGkDkcPTOFWNdMER0BztQjQlw/view?usp=sharing)
 - Test plan
 - Tools: Google Docs, Chrome Browser
 - Language: ENG
