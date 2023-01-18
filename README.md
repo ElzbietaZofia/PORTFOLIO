@@ -30,18 +30,19 @@ Windows, Linux
 
 ## My projects
 
-[1. Online slot game "Book of gold Classic" - Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
-- Test plan
+1. Online slot game "Book of gold Classic" - Functionality Test
+- [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
+- [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
 - Tools: Google Docs, Chrome Browser
 - Language: ENG
 
-[2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/18tJx9GNHSfzIksKfj5aN3RbH31UV2KHppMickWohcvc/edit?usp=sharing) 
-- Test cases
+2. Lampy.pl - Login Test 
+- [Test cases](https://docs.google.com/spreadsheets/d/18tJx9GNHSfzIksKfj5aN3RbH31UV2KHppMickWohcvc/edit?usp=sharing)
 - Tools: Google Sheets, Chrome Browser
 - Language: ENG
 
-[3. Triverna.pl - Search engine Test](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
-- Test plan, Test cases
+3. Triverna.pl - Search engine Test
+- [Test plan, Test cases](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
 - Tools: TestLink, Chrome Browser
 - Language: PL
 
