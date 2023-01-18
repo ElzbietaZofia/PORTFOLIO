@@ -30,7 +30,7 @@ Windows, Linux
 
 ## My projects
 
-1. Online slot game "Book of gold Classic" - Functionality Test
+**pogrubienie**1. Online slot game "Book of gold Classic" - Functionality Test
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
 - [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
 - Tools: Google Docs, Chrome Browser
