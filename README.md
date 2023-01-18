@@ -16,7 +16,7 @@ My goal is to develop testing knowledge and technical skills. At present I am in
 - Basics of SQL
 - Understanding the SCRUM Framework
 - Software testing
-- Creating test cases and Test Scenarios
+- Creating Test cases and Test Scenarios
 - Finding and reporting bugs
 ## Operating systems: 
 Windows, Linux 
@@ -33,7 +33,7 @@ Windows, Linux
 **1. Online slot game "Book of gold Classic" - Functionality Test**
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
 - [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
-- Tools: Google Docs, Chrome Browser
+- Tools: Google Docs, Google Sheets, Chrome Browser
 - Language: ENG
 
 **2. Lampy.pl - Login Test**
