@@ -35,7 +35,7 @@ Windows, Linux
 - Tools: Google Docs, Chrome Browser
 - Language: ENG
 
-[2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing) 
+[2. Lampy.pl - Login Test](https://docs.google.com/spreadsheets/d/18tJx9GNHSfzIksKfj5aN3RbH31UV2KHppMickWohcvc/edit?usp=sharing) 
 - Test cases
 - Tools: Google Sheets, Chrome Browser
 - Language: ENG
