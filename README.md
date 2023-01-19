@@ -49,6 +49,10 @@ Windows, Linux
 
 
 ## My bug reports
-[1. Bug on cegbud.com site](https://drive.google.com/file/d/1O8seFwDDyiUGVvEFejaEXajSewqwJsJb/view?usp=sharing)
+1. [Bug on cegbud.com site](https://drive.google.com/file/d/1O8seFwDDyiUGVvEFejaEXajSewqwJsJb/view?usp=sharing) (Google Docs, PicPick)
 
-[2. Bug on 3wdb.pl site](https://docs.google.com/document/d/1bEuD07Snl7-4OGtSBdWw-tUSqX-PqAgvHBU7d5ZzwAE/edit?usp=sharing)
+2. [Bug on 3wdb.pl site](https://docs.google.com/document/d/1bEuD07Snl7-4OGtSBdWw-tUSqX-PqAgvHBU7d5ZzwAE/edit?usp=sharing) (Google Docs, PicPick)
+
+
+## My SQL Exercises
+1. [SQL Project part 1](https://drive.google.com/file/d/1ySS1GfjvhgpiUWIPEYrzAaLJbjEM3r-Z/view?usp=sharing) (Xampp, phpMyAdmin, Notepad++)
