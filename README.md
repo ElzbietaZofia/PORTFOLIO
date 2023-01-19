@@ -55,4 +55,4 @@ Windows, Linux
 
 
 ## My SQL Exercises
-1. [SQL Project part 1](https://drive.google.com/file/d/1ySS1GfjvhgpiUWIPEYrzAaLJbjEM3r-Z/view?usp=sharing) (Xampp, phpMyAdmin, Notepad++)
+1. [SQL Project part 1](https://drive.google.com/file/d/1ySS1GfjvhgpiUWIPEYrzAaLJbjEM3r-Z/view?usp=sharing) (XAMPP, phpMyAdmin, Notepad++)
