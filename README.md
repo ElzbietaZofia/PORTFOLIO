@@ -39,7 +39,7 @@ Windows, Linux
 - [Test scenarios, Jira Board](https://drive.google.com/file/d/1Tibbuew7l6tby9I3oiBuNpHzRfYR8Bi9/view?usp=sharing)
 - [Test scenarios, Jira Backlog](https://drive.google.com/file/d/1BOKU9ZqkNyyK3Ex3ATX5POtqSjKSHB76/view?usp=sharing)
 - [Bug report, Jira Bug Tracking](https://drive.google.com/file/d/1ghlE_XsK04QBu9xBdEuXz7NATbUef3GE/view?usp=sharing)
-- Tools: Jira, ShareX
+- Tools: Jira, ShareX, Firefox Browser
 
 **3. Lampy.pl - Login Test (ENG)**
 - [Test cases](https://docs.google.com/spreadsheets/d/18tJx9GNHSfzIksKfj5aN3RbH31UV2KHppMickWohcvc/edit?usp=sharing)
