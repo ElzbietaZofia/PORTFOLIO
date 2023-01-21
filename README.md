@@ -55,8 +55,9 @@ Windows, Linux
 
 
 ## My SQL Exercises
-1. [SQL Excercises part 1](https://drive.google.com/file/d/1OxS_WpzcNWTUk1a9-ott07IHHB62drzl/view?usp=sharing) (XAMPP, phpMyAdmin, Notepad++)
-2. [SQL Excercises part 2](https://drive.google.com/file/d/1e4kAPXfmZSq2ARN8AC_TyY3v_nJAnTxL/view?usp=sharing)
-3. [SQL Excercises part 3](https://drive.google.com/file/d/1Cf8_7SlMrBTpwk_0SCbngxIx782rgoUP/view?usp=sharing)
+1. [SQL Exercises part 1](https://drive.google.com/file/d/1v1cGCgJH0T0gDIEtq3UcTNZ6xc0toUJ3/view?usp=sharing) (XAMPP, phpMyAdmin, Notepad++)
+2. [SQL Exercises part 2](https://drive.google.com/file/d/1lZoZB7EGER4vkpqOcnMUDtlfncJtCzw2/view?usp=sharing)
+3. [SQL Exercises part 3](https://drive.google.com/file/d/1UjJ-spyN2WvtNDkVlK87_6s6NAqyJgGd/view?usp=sharing)
+4. [SQL Exercises part 4](https://drive.google.com/file/d/1Xy_8y5TdPSZQwH7xr-LHqJeJgM5ts_uy/view?usp=sharing)
 
 
