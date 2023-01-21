@@ -30,21 +30,26 @@ Windows, Linux
 
 ## My projects
 
-**1. Online slot game "Book of gold Classic" - Functionality Test**
+**1. Online slot game "Book of gold Classic" - Functionality Test (ENG)**
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
 - [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
 - Tools: Google Docs, Google Sheets, Chrome Browser
-- Language: ENG
 
-**2. Lampy.pl - Login Test**
+**2. Impresje24.pl -  Registration Form Test (ENG)**
+- [Test scenarios, Jira Board](https://drive.google.com/file/d/1Tibbuew7l6tby9I3oiBuNpHzRfYR8Bi9/view?usp=sharing)
+- [Test scenarios, Jira Backlog](https://drive.google.com/file/d/1BOKU9ZqkNyyK3Ex3ATX5POtqSjKSHB76/view?usp=sharing)
+- [Bug report, Jira Bug Tracking](https://drive.google.com/file/d/1ghlE_XsK04QBu9xBdEuXz7NATbUef3GE/view?usp=sharing)
+- Tools: Jira, ShareX
+
+**3. Lampy.pl - Login Test (ENG)**
 - [Test cases](https://docs.google.com/spreadsheets/d/18tJx9GNHSfzIksKfj5aN3RbH31UV2KHppMickWohcvc/edit?usp=sharing)
 - Tools: Google Sheets, Chrome Browser
-- Language: ENG
 
-**3. Triverna.pl - Search engine Test**
+
+**4. Triverna.pl - Search engine Test (PL)**
 - [Test plan, Test cases](https://drive.google.com/file/d/12kRwaigOSzSYDYxP5ID1OQY-1E2DheCL/view?usp=sharing)
 - Tools: TestLink, Chrome Browser
-- Language: PL
+
 
 
 
