@@ -1,8 +1,7 @@
 # Portfolio
 ## About me
-My name is Elżbieta Wilk and I am starting my career as a QA tester.
-Years of working as an Interior designer have taught me to analyze in detail all received documentation to create custom project proposals in alignment with client budget and needs. These skills will serve me as a QA specialist. 
-My goal is to develop testing knowledge and technical skills. At present I am intensively studying techniques and tools by attending online courses and by testing websites and applications. In this portfolio I would like to share some of my projects.
+My name is Elżbieta Wilk and I am a software tester focused on continuous development. I am particularly interested in usability testing and on test automation. I believe that meticulous testing has a significant impact on the quality of software. 
+In this portfolio I would like to share some of my projects.
 ## Tools
 - Jira - Issue tracking and project management tool
 - Confluence - A collaborative documentation tool
@@ -10,14 +9,13 @@ My goal is to develop testing knowledge and technical skills. At present I am in
 - TestLink - Open Source Test Management
 - TestRail - A test management platform
 - Postman - An API platform for building and using APIs
-- OBS, PicPick, ShareX - Screen Capture and Recording Software
 - DevTools - A set of web developer tools
 ## Tech skills
-- Basics of SQL
-- Understanding the SCRUM Framework
 - Software testing
-- Creating Test cases and Test Scenarios
+- Creating Test Plans, Test Cases and Test Scenarios
 - Finding and reporting bugs
+- Basics of SQL, HTML, CSS
+- Understanding the SCRUM Framework
 ## Operating systems: 
 Windows, Linux 
 ## Certificates
@@ -58,11 +56,5 @@ Windows, Linux
 
 2. [Bug on 3wdb.pl site](https://docs.google.com/document/d/1bEuD07Snl7-4OGtSBdWw-tUSqX-PqAgvHBU7d5ZzwAE/edit?usp=sharing) (Google Docs, PicPick)
 
-
-## My SQL Exercises
-1. [SQL Exercises part 1](https://drive.google.com/file/d/1v1cGCgJH0T0gDIEtq3UcTNZ6xc0toUJ3/view?usp=sharing) (XAMPP, phpMyAdmin, Notepad++)
-2. [SQL Exercises part 2](https://drive.google.com/file/d/1lZoZB7EGER4vkpqOcnMUDtlfncJtCzw2/view?usp=sharing)
-3. [SQL Exercises part 3](https://drive.google.com/file/d/1UjJ-spyN2WvtNDkVlK87_6s6NAqyJgGd/view?usp=sharing)
-4. [SQL Exercises part 4](https://drive.google.com/file/d/1Xy_8y5TdPSZQwH7xr-LHqJeJgM5ts_uy/view?usp=sharing)
 
 
