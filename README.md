@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-My name is Elżbieta Wilk and I am a software tester focused on continuous development. I am particularly interested in usability testing and on test automation. I believe that meticulous testing has a significant impact on the quality of software. 
+My name is Elżbieta Wilk and I am a software tester focused on continuous development. I am particularly interested in usability testing and test automation. I believe that meticulous testing has a significant impact on the quality of software. 
 In this portfolio I would like to share some of my projects.
 
 ## Tools
