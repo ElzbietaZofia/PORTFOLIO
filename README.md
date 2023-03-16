@@ -37,6 +37,7 @@ Windows, Linux
 
 **1. Nowela.pl - Automation tests in Playwright (TypeScript)**
 - [Login, Search box, Contact form test](https://github.com/ElzbietaZofia/playwright_project_nowela)
+- Tools: Playwright, VSC, DevTools
 
 **2. Online slot game "Book of gold Classic" - Functionality Test**
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
