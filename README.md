@@ -1,6 +1,6 @@
-# Portfolio
 
 ## About me
+
 I am a software QA tester with experience in both manual and automated testing. I have worked with web applications in a commercial setting and have created test plans, test scenarios, and executed those tests. My fields of experience include writing tests in Playwright using TypeScript. I hold the ISTQB Foundation Level (FL) Certification obtained in 2022.
 
 One of my main interests is usability testing and the UX research field. I am also very interested in Test Management and currently learning to obtain the ISTQB Advanced Level Test Manager Certificate (CTAL-TM) to further advance my skills.
@@ -41,7 +41,7 @@ Windows, Linux
 ## My projects
 
 **1. Motorcycle Online Shop - Automation tests in Playwright (TypeScript)**
--[E2E and API tests](https://github.com/ElzbietaZofia/playwright-motorcycle-shop)
+- [E2E and API tests](https://github.com/ElzbietaZofia/playwright-motorcycle-shop)
 - Tools: Playwright, VSC, DevTools
 
 **2. Online Bookstore - Automation tests in Playwright (TypeScript)**
