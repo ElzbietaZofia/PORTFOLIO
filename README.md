@@ -39,15 +39,19 @@ Windows, Linux
 
 ## My projects
 
-**1. Online Learning Platform - Test Scenarios**
+**1. Online Learning Platform - Automation tests in Playwright (TypeScript)**
+- [E2E tests](https://github.com/ElzbietaZofia/playwright-elearning-platform/tree/main)
+
+
+**2. Online Learning Platform - Test Scenarios**
 - [Regression tests scenarios](https://docs.google.com/spreadsheets/d/1JxtXlDeIuskcU9MBa65r4ZfBlYK8jdww0tP8em-8kKs/edit#gid=1755272287)
 
 
-**2.Motorcycle Online Shop - Automation tests in Playwright (TypeScript)**
+**3. Motorcycle Online Shop - Automation tests in Playwright (TypeScript)**
 - [E2E and API tests](https://github.com/ElzbietaZofia/playwright-motorcycle-shop)
 
 
-**3. Online slot game "Book of gold Classic" - Functionality Test**
+**4. Online slot game "Book of gold Classic" - Functionality Test**
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
 - [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
 
