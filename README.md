@@ -5,7 +5,7 @@ I am a QA tester with experience in both manual and automated testing. I have wo
 
 Testing is a job which gives me great pleasure and satisfaction. What is more, I am very interested in Test Management and Agile methodology. In my current job, in addition to testing, I also manage the backlog by maintaining a prioritized list of tasks for the development team to work on. Furthermore, I have experience in management as the former owner of an Interior Design Studio, where I managed the company and coordinated and monitored the work of contractors and suppliers. 
 
-In addition to my software testing skills, I have experience as a WordPress webmaster/webdesigner and as an SEO specialist.
+In addition to my software testing skills, I have experience as a WordPress webmaster/webdesigner and as a SEO specialist. 
 
 In this portfolio I would like to share some of my projects.
 
