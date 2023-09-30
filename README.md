@@ -1,7 +1,7 @@
 
 ## About me
 
-I am a QA tester with experience in both manual and automated testing. I have worked with web applications in a commercial setting and have created test plans, test scenarios, and executed those tests. My fields of experience include writing tests in Playwright using TypeScript. I hold the ISTQB Foundation Level (FL) Certification obtained in 2022.
+My name is Elzbieta Wilk and I am software QA tester with commercial experience in manual and automated testing. My expertise includes writing tests in Playwright using TypeScript. I hold the ISTQB Certification. 
 
 Testing is a job which gives me great pleasure and satisfaction. What is more, I am very interested in Test Management and Agile methodology. In my current job, in addition to testing, I also manage the backlog by maintaining a prioritized list of tasks for the development team to work on. Furthermore, I have experience in management as the former owner of an Interior Design Studio, where I managed the company and coordinated and monitored the work of contractors and suppliers. 
 
@@ -25,11 +25,11 @@ In this portfolio I would like to share some of my projects.
 - Automated testing
 - Creating Test Plans, Test Cases and Test Scenarios
 - Finding and reporting bugs
-- Basics of SQL, HTML, CSS, TypeScript
+- Basics of SQL, HTML, CSS, TypeScript, JavaScript
 - Understanding the Agile methodology and SCRUM Framework
 
 ## Operating systems: 
-Windows, Linux 
+Windows, Linux (Ubuntu)
 
 ## Certificates
 - [ISTQB FL](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 95731
