@@ -1,11 +1,11 @@
 
 ## About me
 
-My name is Elzbieta Wilk and I am software QA tester with commercial experience in manual and automated testing. My expertise includes writing tests in Playwright using TypeScript. I hold the ISTQB Certification. 
+I am software QA tester with commercial experience in manual and automated testing and in managing the backlog by maintaining a prioritized list of tasks for teams of software developers and testers. My expertise includes writing tests in Playwright using TypeScript. I hold the ISTQB Certification. 
 
-Testing is a job which gives me great pleasure and satisfaction. What is more, I am very interested in Test Management and Agile methodology. In my current job, in addition to testing, I also manage the backlog by maintaining a prioritized list of tasks for the development team to work on. Furthermore, I have experience in management as the former owner of an Interior Design Studio, where I managed the company and coordinated and monitored the work of contractors and suppliers. 
+I am experienced in management as former business owner of Interior Design Studio, where I run the company, including coordination and monitoring of contractors and suppliers. 
 
-In addition to my software testing skills, I have experience as a WordPress webmaster/webdesigner and as a SEO specialist. 
+In addition to my software testing skills, I have experience as WordPress webmaster, webdesigner and SEO specialist.
 
 In this portfolio I would like to share some of my projects.
 
