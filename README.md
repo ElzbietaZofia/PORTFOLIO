@@ -5,7 +5,7 @@ I am software QA tester with commercial experience in manual and automated testi
 
 I am experienced in management as former business owner of Interior Design Studio, where I run the company, including coordination and monitoring of contractors and suppliers. 
 
-In addition to my software testing skills, I have experience as WordPress webmaster and webdesigner.
+In addition to my software testing skills, I have experience as a SEO specialist and WordPress webmaster.
 
 In this portfolio I would like to share some of my projects.
 
@@ -25,7 +25,9 @@ In this portfolio I would like to share some of my projects.
 - Automated testing
 - Creating Test Plans, Test Cases and Test Scenarios
 - Finding and reporting bugs
-- Basics of SQL, HTML, CSS, TypeScript, JavaScript
+- Basics of SQL,
+- HTML, CSS
+- SEO optimization
 - Understanding the Agile methodology and SCRUM Framework
 
 ## Operating systems: 
