@@ -47,8 +47,10 @@ Windows, Linux (Ubuntu)
 **2. Online Learning Platform - Test Scenarios**
 - [Regression tests scenarios](https://docs.google.com/spreadsheets/d/1JxtXlDeIuskcU9MBa65r4ZfBlYK8jdww0tP8em-8kKs/edit#gid=1755272287)
 
+**3. Online Learning Platform - Test Plan for Cart and Payment Gateway Tests**
+- [Test plan](https://drive.google.com/file/d/1zPv6SuOSCKQhh30d6TQk2hFAbuPj1La9/view)
 
-**3. Online slot game "Book of gold Classic" - Functionality Test**
+**4. Online slot game "Book of gold Classic" - Functionality Test**
 - [Test plan](https://drive.google.com/file/d/1FCst8JzZHq9XHOZLnrS5BGNU1YPkz8qR/view?usp=sharing)
 - [Test cases](https://docs.google.com/spreadsheets/d/1VO187ttuftSpm7QGoDKAgQgF25rIEWJfC2DKHK-4kU4/edit?usp=sharing)
 
